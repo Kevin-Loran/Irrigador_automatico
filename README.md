@@ -8,9 +8,12 @@ O projeto utiliza um Arduino Uno, um sensor de umidade do solo e uma mini bomba 
 
 O objetivo foi desenvolver uma solução de baixo custo para automatizar a irrigação e reduzir o desperdício de água.
 
-##imagens do protótipo
+## imagens do protótipo
 
 <img width="579" height="438" alt="image" src="https://github.com/user-attachments/assets/e4636d13-ef95-45be-944b-cce0b81e21f7" />
+
+<img width="572" height="436" alt="image" src="https://github.com/user-attachments/assets/78ea3665-619d-4d6e-b75c-59ad18274488" />
+
 
 
 ## Como funciona
