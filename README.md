@@ -44,5 +44,5 @@ Irrigação
 ```
 
 diagrama: 
+<img width="732" height="343" alt="image" src="https://github.com/user-attachments/assets/e5152051-fa4a-44fd-bc1c-5e45b037660a" />
 
-<img width="708" height="337" alt="image" src="https://github.com/user-attachments/assets/9ecf3eeb-c484-41be-88fd-1b321aa10f0f" />
